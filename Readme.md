@@ -10,4 +10,13 @@
 - Sonar Dataset
 - Python, NumPy, Pandas, Scikit-Learn
 
+### Project 02 - Diabetes Prediction System
+- Binary Classification
+- Support Vector Machine (SVM)
+- Pima Indians Diabetes Dataset
+- Data Standardization
+- Stratified Train-Test Split
+- Python, NumPy, Pandas, Scikit-Learn
+
+
 More projects coming soon...
