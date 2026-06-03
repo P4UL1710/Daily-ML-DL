@@ -19,4 +19,14 @@
 - Python, NumPy, Pandas, Scikit-Learn
 
 
+### Project 03 - Wine Quality Prediction
+- Binary Classification
+- Random Forest Classifier
+- Wine Quality Dataset
+- Exploratory Data Analysis (EDA)
+- Correlation Heatmap
+- Stratified Train-Test Split
+- Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
+
+
 More projects coming soon...
