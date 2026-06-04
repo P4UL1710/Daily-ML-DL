@@ -28,5 +28,37 @@
 - Stratified Train-Test Split
 - Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
 
+### Project 04 - Fake News Detection System
+- Natural Language Processing (NLP)
+- Binary Classification
+- Logistic Regression
+- Fake & Real News Dataset
+- Text Preprocessing
+- Stopword Removal
+- Porter Stemming
+- TF-IDF Vectorization
+- Train-Test Split
+- News Classification (Fake or Real)
+- Python, NumPy, Pandas, NLTK, Scikit-Learn
+
+## Repository Structure
+
+```text
+Daily-ML-DL/
+│
+├── Project_01_Rock_vs_Mine_Prediction/
+├── Project_02_Diabetes_Prediction/
+├── Project_03_Wine_Quality_Prediction/
+├── Project_04_Fake_News_Detection/
+└── README.md
+```
+
+## Goals
+
+- Build one ML/DL project every day.
+- Strengthen Machine Learning fundamentals.
+- Improve Data Analysis and Feature Engineering skills.
+- Learn Deep Learning and NLP through practical implementation.
+- Create a strong project portfolio.
 
 More projects coming soon...
