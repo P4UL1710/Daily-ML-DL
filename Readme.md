@@ -76,6 +76,19 @@ My daily Machine Learning and Deep Learning project repository where I build and
 
 ---
 
+Project 06 - Car Price Prediction System
+* Regression Problem
+* Used Car Dataset
+* Data Cleaning & Preprocessing
+* Categorical Feature Encoding
+* Exploratory Data Analysis (EDA)
+* Feature Selection
+* Linear Regression
+* Model Evaluation using R² Score
+* Actual vs Predicted Price Visualization
+* Selling Price Prediction
+* Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
+
 ## 📁 Repository Structure
 
 ```text
@@ -86,6 +99,7 @@ Daily-ML-DL/
 ├── Project_03_Wine_Quality_Prediction/
 ├── Project_04_Fake_News_Detection/
 ├── Project_05_House_Price_Prediction/
+├── Project_06_Car_Price_Prediction/
 └── README.md
 ```
 
@@ -118,6 +132,6 @@ Daily-ML-DL/
 
 ## 📈 Progress
 
-✅ 5 Machine Learning Projects Completed
+✅ 6 Machine Learning Projects Completed
 
 🚀 More projects coming soon...
