@@ -89,6 +89,18 @@ Project 06 - Car Price Prediction System
 * Selling Price Prediction
 * Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
 
+Project 07 - Loan Prediction System
+* Classification Problem
+* Loan Approval Dataset
+* Data Cleaning & Missing Value Handling
+* Categorical Feature Encoding
+* Feature Engineering
+* Stratified Train-Test Split
+* Support Vector Machine (SVM)
+* Model Evaluation using Accuracy Score
+* Loan Eligibility Prediction
+* Python, NumPy, Pandas, Seaborn, Scikit-Learn
+
 ## 📁 Repository Structure
 
 ```text
@@ -100,6 +112,7 @@ Daily-ML-DL/
 ├── Project_04_Fake_News_Detection/
 ├── Project_05_House_Price_Prediction/
 ├── Project_06_Car_Price_Prediction/
+├── Project_07_Loan_Prediction/
 └── README.md
 ```
 
