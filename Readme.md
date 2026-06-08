@@ -101,6 +101,21 @@ Project 07 - Loan Prediction System
 * Loan Eligibility Prediction
 * Python, NumPy, Pandas, Seaborn, Scikit-Learn
 
+### Project 08 - Gold Price Prediction System
+
+* Regression Problem
+* Gold Price Dataset
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Correlation Analysis using Heatmaps
+* Feature Selection
+* Random Forest Regressor
+* Model Evaluation using R² Score
+* Actual vs Predicted Price Visualization
+* Gold Price Prediction
+* Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
+
+
 ## 📁 Repository Structure
 
 ```text
@@ -113,6 +128,7 @@ Daily-ML-DL/
 ├── Project_05_House_Price_Prediction/
 ├── Project_06_Car_Price_Prediction/
 ├── Project_07_Loan_Prediction/
+├── Project_08_Gold_Price_Prediction/
 └── README.md
 ```
 
@@ -145,6 +161,6 @@ Daily-ML-DL/
 
 ## 📈 Progress
 
-✅ 6 Machine Learning Projects Completed
+✅ 8 Machine Learning Projects Completed
 
 🚀 More projects coming soon...
