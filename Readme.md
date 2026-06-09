@@ -115,6 +115,19 @@ Project 07 - Loan Prediction System
 * Gold Price Prediction
 * Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
 
+### Project 09 - Heart Disease Prediction System
+
+* Binary Classification
+* Heart Disease Dataset
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Feature Selection
+* Stratified Train-Test Split
+* Logistic Regression
+* Model Evaluation using Accuracy Score
+* Heart Disease Prediction
+* Python, NumPy, Pandas, Scikit-Learn
+
 
 ## 📁 Repository Structure
 
@@ -129,6 +142,7 @@ Daily-ML-DL/
 ├── Project_06_Car_Price_Prediction/
 ├── Project_07_Loan_Prediction/
 ├── Project_08_Gold_Price_Prediction/
+├── Project_09_Heart_Disease_Prediction/
 └── README.md
 ```
 
@@ -161,6 +175,6 @@ Daily-ML-DL/
 
 ## 📈 Progress
 
-✅ 8 Machine Learning Projects Completed
+✅ 9 Machine Learning Projects Completed
 
 🚀 More projects coming soon...
