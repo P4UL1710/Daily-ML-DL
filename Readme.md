@@ -1,6 +1,13 @@
 # 🚀 Daily-ML-DL
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+![Deep Learning](https://img.shields.io/badge/Deep-Learning-red)
+![Projects](https://img.shields.io/badge/Projects-10-orange)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 My daily Machine Learning and Deep Learning project repository where I build and document ML/DL projects to strengthen my practical skills and create a strong portfolio.
+
 
 ---
 
@@ -128,6 +135,20 @@ Project 07 - Loan Prediction System
 * Heart Disease Prediction
 * Python, NumPy, Pandas, Scikit-Learn
 
+### Project 10 - Credit Card Fraud Detection System
+
+* Binary Classification
+* Credit Card Transactions Dataset
+* Data Cleaning & Preprocessing
+* Handling Imbalanced Data using Undersampling
+* Exploratory Data Analysis (EDA)
+* Feature Selection
+* Stratified Train-Test Split
+* Logistic Regression
+* Model Evaluation using Accuracy Score
+* Fraudulent Transaction Prediction
+* Python, NumPy, Pandas, Scikit-Learn
+
 
 ## 📁 Repository Structure
 
@@ -143,6 +164,7 @@ Daily-ML-DL/
 ├── Project_07_Loan_Prediction/
 ├── Project_08_Gold_Price_Prediction/
 ├── Project_09_Heart_Disease_Prediction/
+├── Project_10_Credit_Card_Fraud_Detection/
 └── README.md
 ```
 
@@ -170,11 +192,14 @@ Daily-ML-DL/
 * XGBoost
 * NLTK
 * Joblib
+* Logistic Regression
+* Support Vector Machine (SVM)
+* Random Forest
 
 ---
 
 ## 📈 Progress
 
-✅ 9 Machine Learning Projects Completed
+✅ 10 Machine Learning Projects Completed
 
 🚀 More projects coming soon...
