@@ -83,7 +83,7 @@ My daily Machine Learning and Deep Learning project repository where I build and
 
 ---
 
-Project 06 - Car Price Prediction System
+### Project 06 - Car Price Prediction System
 * Regression Problem
 * Used Car Dataset
 * Data Cleaning & Preprocessing
@@ -96,7 +96,7 @@ Project 06 - Car Price Prediction System
 * Selling Price Prediction
 * Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
 
-Project 07 - Loan Prediction System
+### Project 07 - Loan Prediction System
 * Classification Problem
 * Loan Approval Dataset
 * Data Cleaning & Missing Value Handling
@@ -149,6 +149,19 @@ Project 07 - Loan Prediction System
 * Fraudulent Transaction Prediction
 * Python, NumPy, Pandas, Scikit-Learn
 
+### Project 11 - Insurance Cost Prediction System
+
+* Regression Problem
+* Medical Insurance Dataset
+* Data Cleaning & Preprocessing
+* Categorical Feature Encoding
+* Exploratory Data Analysis (EDA)
+* Feature Correlation Analysis
+* Linear Regression
+* Model Evaluation using R² Score
+* Insurance Charge Prediction
+* Predictive System for User Inputs
+* Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
 
 ## 📁 Repository Structure
 
@@ -165,6 +178,7 @@ Daily-ML-DL/
 ├── Project_08_Gold_Price_Prediction/
 ├── Project_09_Heart_Disease_Prediction/
 ├── Project_10_Credit_Card_Fraud_Detection/
+├── Project_11_Insurance_Cost_Prediction/
 └── README.md
 ```
 
@@ -200,6 +214,6 @@ Daily-ML-DL/
 
 ## 📈 Progress
 
-✅ 10 Machine Learning Projects Completed
+✅ 11 Machine Learning Projects Completed
 
 🚀 More projects coming soon...
