@@ -5,6 +5,7 @@
 ![Deep Learning](https://img.shields.io/badge/Deep-Learning-red)
 ![Projects](https://img.shields.io/badge/Projects-10-orange)
 ![Status](https://img.shields.io/badge/Status-Active-success)
+![Projects](https://img.shields.io/badge/Projects-12-orange)
 
 My daily Machine Learning and Deep Learning project repository where I build and document ML/DL projects to strengthen my practical skills and create a strong portfolio.
 
@@ -163,6 +164,32 @@ My daily Machine Learning and Deep Learning project repository where I build and
 * Predictive System for User Inputs
 * Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
 
+### Project 12 - BigMart Sales Prediction System
+
+* Regression Problem
+* BigMart Sales Dataset
+* Data Cleaning & Missing Value Handling
+* Mean Imputation for Numerical Features
+* Mode Imputation based on Outlet Type
+* Exploratory Data Analysis (EDA)
+* Pipeline & ColumnTransformer
+* One-Hot Encoding
+* XGBoost Regressor
+* Model Evaluation using R² Score
+* Sales Prediction System
+* Predictive System for User Inputs
+* Python, NumPy, Pandas, Scikit-Learn, XGBoost
+
+#### Model Performance
+
+| Metric         | Score |
+| -------------- | ----- |
+| Train R² Score | 0.71  |
+| Test R² Score  | 0.50  |
+
+🏆 Best Model: **XGBoost Regressor**
+
+
 ## 📁 Repository Structure
 
 ```text
@@ -179,6 +206,7 @@ Daily-ML-DL/
 ├── Project_09_Heart_Disease_Prediction/
 ├── Project_10_Credit_Card_Fraud_Detection/
 ├── Project_11_Insurance_Cost_Prediction/
+├── Project_12_BigMart_Sales_Prediction/
 └── README.md
 ```
 
@@ -214,6 +242,6 @@ Daily-ML-DL/
 
 ## 📈 Progress
 
-✅ 11 Machine Learning Projects Completed
+✅ 12 Machine Learning Projects Completed
 
 🚀 More projects coming soon...
