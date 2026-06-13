@@ -5,7 +5,7 @@
 ![Deep Learning](https://img.shields.io/badge/Deep-Learning-red)
 ![Projects](https://img.shields.io/badge/Projects-10-orange)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Projects](https://img.shields.io/badge/Projects-12-orange)
+![Projects](https://img.shields.io/badge/Projects-13-orange)
 
 My daily Machine Learning and Deep Learning project repository where I build and document ML/DL projects to strengthen my practical skills and create a strong portfolio.
 
@@ -189,6 +189,23 @@ My daily Machine Learning and Deep Learning project repository where I build and
 
 🏆 Best Model: **XGBoost Regressor**
 
+### Project 13 - Mall Customer Segmentation System
+
+* Unsupervised Machine Learning
+* K-Means Clustering
+* Mall Customers Dataset
+* Customer Segmentation
+* Annual Income & Spending Score Analysis
+* Elbow Method for Optimal Clusters
+* Cluster Visualization
+* Customer Group Identification
+* Data Visualization using Matplotlib & Seaborn
+* Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
+
+#### Key Outcome
+
+🏆 Successfully segmented customers into **5 distinct groups** based on spending behavior and annual income.
+
 
 ## 📁 Repository Structure
 
@@ -207,6 +224,7 @@ Daily-ML-DL/
 ├── Project_10_Credit_Card_Fraud_Detection/
 ├── Project_11_Insurance_Cost_Prediction/
 ├── Project_12_BigMart_Sales_Prediction/
+├── Project_13_Mall_Customer_Segmentation/
 └── README.md
 ```
 
@@ -242,6 +260,6 @@ Daily-ML-DL/
 
 ## 📈 Progress
 
-✅ 12 Machine Learning Projects Completed
+✅ 13 Machine Learning Projects Completed
 
 🚀 More projects coming soon...
