@@ -5,8 +5,7 @@
 ![Deep Learning](https://img.shields.io/badge/Deep-Learning-red)
 ![Projects](https://img.shields.io/badge/Projects-10-orange)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Projects](https://img.shields.io/badge/Projects-13-orange)
-
+![Projects](https://img.shields.io/badge/Projects-14-orange)
 My daily Machine Learning and Deep Learning project repository where I build and document ML/DL projects to strengthen my practical skills and create a strong portfolio.
 
 
@@ -206,6 +205,24 @@ My daily Machine Learning and Deep Learning project repository where I build and
 
 🏆 Successfully segmented customers into **5 distinct groups** based on spending behavior and annual income.
 
+### Project 14 - Parkinson's Disease Prediction System
+
+* Binary Classification
+* Parkinson's Disease Dataset
+* Data Cleaning & Preprocessing
+* Removal of Non-Numerical Features
+* Feature Scaling using StandardScaler
+* Stratified Train-Test Split
+* Support Vector Machine (SVM)
+* Model Evaluation using Accuracy Score
+* Predictive System for New Patient Data
+* Parkinson's Disease Detection
+* Python, NumPy, Pandas, Scikit-Learn
+
+#### Key Outcome
+
+🏆 Successfully built a machine learning model capable of predicting Parkinson's Disease using biomedical voice measurement features.
+
 
 ## 📁 Repository Structure
 
@@ -225,6 +242,7 @@ Daily-ML-DL/
 ├── Project_11_Insurance_Cost_Prediction/
 ├── Project_12_BigMart_Sales_Prediction/
 ├── Project_13_Mall_Customer_Segmentation/
+├── Project_14_Parkinsons_Disease_Prediction/
 └── README.md
 ```
 
@@ -260,6 +278,6 @@ Daily-ML-DL/
 
 ## 📈 Progress
 
-✅ 13 Machine Learning Projects Completed
+✅ 14 Machine Learning Projects Completed
 
 🚀 More projects coming soon...
