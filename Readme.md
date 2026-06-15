@@ -5,7 +5,7 @@
 ![Deep Learning](https://img.shields.io/badge/Deep-Learning-red)
 ![Projects](https://img.shields.io/badge/Projects-10-orange)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Projects](https://img.shields.io/badge/Projects-14-orange)
+![Projects](https://img.shields.io/badge/Projects-15-orange)
 My daily Machine Learning and Deep Learning project repository where I build and document ML/DL projects to strengthen my practical skills and create a strong portfolio.
 
 
@@ -223,6 +223,25 @@ My daily Machine Learning and Deep Learning project repository where I build and
 
 🏆 Successfully built a machine learning model capable of predicting Parkinson's Disease using biomedical voice measurement features.
 
+### Project 15 - Titanic Survival Prediction System
+
+* Binary Classification
+* Titanic Dataset
+* Data Cleaning & Preprocessing
+* Missing Value Handling
+* Categorical Feature Encoding
+* Exploratory Data Analysis (EDA)
+* Survival Distribution Analysis
+* Feature Selection
+* Stratified Train-Test Split
+* Logistic Regression
+* Model Evaluation using Accuracy Score
+* Passenger Survival Prediction
+* Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
+
+#### Key Outcome
+
+🏆 Successfully built a machine learning model capable of predicting passenger survival based on demographic and travel-related features.
 
 ## 📁 Repository Structure
 
@@ -243,6 +262,7 @@ Daily-ML-DL/
 ├── Project_12_BigMart_Sales_Prediction/
 ├── Project_13_Mall_Customer_Segmentation/
 ├── Project_14_Parkinsons_Disease_Prediction/
+├── Project_15_Titanic_Survival_Prediction/
 └── README.md
 ```
 
@@ -278,6 +298,6 @@ Daily-ML-DL/
 
 ## 📈 Progress
 
-✅ 14 Machine Learning Projects Completed
+✅ 15 Machine Learning Projects Completed
 
 🚀 More projects coming soon...
