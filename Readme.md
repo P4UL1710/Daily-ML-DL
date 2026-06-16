@@ -3,9 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
 ![Deep Learning](https://img.shields.io/badge/Deep-Learning-red)
-![Projects](https://img.shields.io/badge/Projects-10-orange)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Projects](https://img.shields.io/badge/Projects-15-orange)
+![Projects](https://img.shields.io/badge/Projects-16-orange)
 My daily Machine Learning and Deep Learning project repository where I build and document ML/DL projects to strengthen my practical skills and create a strong portfolio.
 
 
@@ -243,6 +242,25 @@ My daily Machine Learning and Deep Learning project repository where I build and
 
 🏆 Successfully built a machine learning model capable of predicting passenger survival based on demographic and travel-related features.
 
+### Project 16 - Calories Burnt Prediction System
+
+* Regression Problem
+* Exercise & Calories Dataset
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Gender Encoding
+* Correlation Heatmap
+* Feature Selection
+* XGBoost Regressor
+* Model Evaluation using R² Score
+* Calories Burnt Prediction
+* Predictive System for User Inputs
+* Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, XGBoost
+
+#### Key Outcome
+
+🏆 Successfully built a machine learning model capable of estimating calories burned based on user characteristics and exercise metrics.
+
 ## 📁 Repository Structure
 
 ```text
@@ -263,6 +281,7 @@ Daily-ML-DL/
 ├── Project_13_Mall_Customer_Segmentation/
 ├── Project_14_Parkinsons_Disease_Prediction/
 ├── Project_15_Titanic_Survival_Prediction/
+├── Project_16_Calories_Burnt_Prediction/
 └── README.md
 ```
 
@@ -298,6 +317,6 @@ Daily-ML-DL/
 
 ## 📈 Progress
 
-✅ 15 Machine Learning Projects Completed
+✅ 16 Machine Learning Projects Completed
 
 🚀 More projects coming soon...
