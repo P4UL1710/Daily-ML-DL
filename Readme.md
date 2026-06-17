@@ -4,7 +4,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
 ![Deep Learning](https://img.shields.io/badge/Deep-Learning-red)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Projects](https://img.shields.io/badge/Projects-16-orange)
+![Projects](https://img.shields.io/badge/Projects-17-orange)
 My daily Machine Learning and Deep Learning project repository where I build and document ML/DL projects to strengthen my practical skills and create a strong portfolio.
 
 
@@ -261,6 +261,25 @@ My daily Machine Learning and Deep Learning project repository where I build and
 
 🏆 Successfully built a machine learning model capable of estimating calories burned based on user characteristics and exercise metrics.
 
+### Project 17 - Fake Mail Classifier
+
+* Natural Language Processing (NLP)
+* Binary Classification
+* Email Spam Detection Dataset
+* Data Cleaning & Missing Value Handling
+* Label Encoding (Spam = 0, Ham = 1)
+* TF-IDF Vectorization
+* Stratified Train-Test Split
+* Logistic Regression
+* Model Evaluation using Accuracy Score
+* Email Classification (Spam or Ham)
+* Predictive System for Custom Email Messages
+* Python, NumPy, Pandas, Scikit-Learn
+
+#### Key Outcome
+
+🏆 Successfully built an NLP-based machine learning model capable of classifying emails as **Spam** or **Ham (Legitimate)** using TF-IDF feature extraction and Logistic Regression.
+
 ## 📁 Repository Structure
 
 ```text
@@ -282,6 +301,7 @@ Daily-ML-DL/
 ├── Project_14_Parkinsons_Disease_Prediction/
 ├── Project_15_Titanic_Survival_Prediction/
 ├── Project_16_Calories_Burnt_Prediction/
+├── Project_17_Fake_Mail_Classifier/
 └── README.md
 ```
 
@@ -317,6 +337,6 @@ Daily-ML-DL/
 
 ## 📈 Progress
 
-✅ 16 Machine Learning Projects Completed
+✅ 17 Machine Learning Projects Completed
 
 🚀 More projects coming soon...
