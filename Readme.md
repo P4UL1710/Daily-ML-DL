@@ -4,7 +4,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
 ![Deep Learning](https://img.shields.io/badge/Deep-Learning-red)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Projects](https://img.shields.io/badge/Projects-17-orange)
+![Projects](https://img.shields.io/badge/Projects-18-orange)
 My daily Machine Learning and Deep Learning project repository where I build and document ML/DL projects to strengthen my practical skills and create a strong portfolio.
 
 
@@ -280,6 +280,25 @@ My daily Machine Learning and Deep Learning project repository where I build and
 
 🏆 Successfully built an NLP-based machine learning model capable of classifying emails as **Spam** or **Ham (Legitimate)** using TF-IDF feature extraction and Logistic Regression.
 
+### Project 18 - Movie Recommendation System
+
+* Recommendation System
+* Content-Based Filtering
+* Movie Metadata Dataset
+* Data Cleaning & Missing Value Handling
+* Feature Engineering
+* Combined Feature Creation (Genres, Keywords, Tagline, Cast, Director)
+* TF-IDF Vectorization
+* Cosine Similarity
+* Movie Similarity Analysis
+* Fuzzy Movie Name Matching using Difflib
+* Top Similar Movie Recommendations
+* Python, NumPy, Pandas, Scikit-Learn
+
+#### Key Outcome
+
+🏆 Successfully built a content-based recommendation system capable of suggesting similar movies using TF-IDF feature extraction and Cosine Similarity.
+
 ## 📁 Repository Structure
 
 ```text
@@ -302,6 +321,7 @@ Daily-ML-DL/
 ├── Project_15_Titanic_Survival_Prediction/
 ├── Project_16_Calories_Burnt_Prediction/
 ├── Project_17_Fake_Mail_Classifier/
+├── Project_18_Movie_Recommendation_System/
 └── README.md
 ```
 
@@ -332,11 +352,14 @@ Daily-ML-DL/
 * Logistic Regression
 * Support Vector Machine (SVM)
 * Random Forest
+* NLP
+* Reccomendation System
+* TF-IDF
 
 ---
 
 ## 📈 Progress
 
-✅ 17 Machine Learning Projects Completed
+✅ 18 Machine Learning Projects Completed
 
 🚀 More projects coming soon...
