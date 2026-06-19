@@ -4,7 +4,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
 ![Deep Learning](https://img.shields.io/badge/Deep-Learning-red)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Projects](https://img.shields.io/badge/Projects-18-orange)
+![Projects](https://img.shields.io/badge/Projects-19-orange)
 My daily Machine Learning and Deep Learning project repository where I build and document ML/DL projects to strengthen my practical skills and create a strong portfolio.
 
 
@@ -299,6 +299,25 @@ My daily Machine Learning and Deep Learning project repository where I build and
 
 🏆 Successfully built a content-based recommendation system capable of suggesting similar movies using TF-IDF feature extraction and Cosine Similarity.
 
+### Project 19 - Breast Cancer Prediction System
+
+* Binary Classification
+* Breast Cancer Wisconsin Dataset
+* Data Cleaning & Preprocessing
+* Removal of Unnecessary Features
+* Label Encoding (Benign = 0, Malignant = 1)
+* Stratified Train-Test Split
+* Logistic Regression
+* Model Evaluation using Accuracy Score
+* Predictive System for New Patient Data
+* Tumor Classification (Benign or Malignant)
+* Python, NumPy, Pandas, Scikit-Learn
+
+#### Key Outcome
+
+🏆 Successfully built a machine learning model capable of classifying breast tumors as **Benign** or **Malignant** using Logistic Regression and diagnostic medical features.
+
+
 ## 📁 Repository Structure
 
 ```text
@@ -322,6 +341,7 @@ Daily-ML-DL/
 ├── Project_16_Calories_Burnt_Prediction/
 ├── Project_17_Fake_Mail_Classifier/
 ├── Project_18_Movie_Recommendation_System/
+├── Project_19_Breast_Cancer_Prediction/
 └── README.md
 ```
 
@@ -360,6 +380,6 @@ Daily-ML-DL/
 
 ## 📈 Progress
 
-✅ 18 Machine Learning Projects Completed
+✅ 19 Machine Learning Projects Completed
 
 🚀 More projects coming soon...
