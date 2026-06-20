@@ -4,7 +4,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
 ![Deep Learning](https://img.shields.io/badge/Deep-Learning-red)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Projects](https://img.shields.io/badge/Projects-19-orange)
+![Projects](https://img.shields.io/badge/Projects-20-orange)
 My daily Machine Learning and Deep Learning project repository where I build and document ML/DL projects to strengthen my practical skills and create a strong portfolio.
 
 
@@ -317,6 +317,26 @@ My daily Machine Learning and Deep Learning project repository where I build and
 
 🏆 Successfully built a machine learning model capable of classifying breast tumors as **Benign** or **Malignant** using Logistic Regression and diagnostic medical features.
 
+### Project 20 - Breast Cancer Classification using ANN
+
+* Deep Learning Classification
+* Breast Cancer Wisconsin Dataset
+* Data Cleaning & Preprocessing
+* Label Encoding (Benign = 0, Malignant = 1)
+* Stratified Train-Test Split
+* Feature Scaling using StandardScaler
+* Artificial Neural Network (ANN)
+* TensorFlow & Keras
+* Dense Neural Network Architecture
+* Model Evaluation using Accuracy Score
+* Accuracy & Loss Visualization
+* Predictive System for New Patient Data
+* Tumor Classification (Benign or Malignant)
+* Python, NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, Keras
+
+#### Key Outcome
+
+🏆 Successfully built a Deep Learning model capable of classifying breast tumors as **Benign** or **Malignant** using an Artificial Neural Network (ANN) with TensorFlow and Keras.
 
 ## 📁 Repository Structure
 
@@ -342,6 +362,7 @@ Daily-ML-DL/
 ├── Project_17_Fake_Mail_Classifier/
 ├── Project_18_Movie_Recommendation_System/
 ├── Project_19_Breast_Cancer_Prediction/
+├── Project_20_Breast_Cancer_ANN/
 └── README.md
 ```
 
@@ -375,11 +396,14 @@ Daily-ML-DL/
 * NLP
 * Reccomendation System
 * TF-IDF
+* TensorFlow
+* Keras
+* Artificial Neural Networks (ANN)
 
 ---
 
 ## 📈 Progress
 
-✅ 19 Machine Learning Projects Completed
+✅ 20 Machine Learning Projects Completed
 
 🚀 More projects coming soon...
