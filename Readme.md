@@ -4,7 +4,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
 ![Deep Learning](https://img.shields.io/badge/Deep-Learning-red)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Projects](https://img.shields.io/badge/Projects-20-orange)
+![Projects](https://img.shields.io/badge/Projects-21-orange)
 My daily Machine Learning and Deep Learning project repository where I build and document ML/DL projects to strengthen my practical skills and create a strong portfolio.
 
 
@@ -338,6 +338,25 @@ My daily Machine Learning and Deep Learning project repository where I build and
 
 🏆 Successfully built a Deep Learning model capable of classifying breast tumors as **Benign** or **Malignant** using an Artificial Neural Network (ANN) with TensorFlow and Keras.
 
+### Project 21 - Strength Gain Prediction System
+
+* Regression Problem
+* Supplement Impact Dataset
+* Data Cleaning & Preprocessing
+* Categorical Feature Encoding
+* Percentage Target Transformation
+* Feature Engineering
+* Train-Test Split
+* XGBoost Regressor
+* Model Evaluation using R² Score
+* Strength Gain Percentage Prediction
+* Predictive System for User Inputs
+* Python, NumPy, Pandas, Scikit-Learn, XGBoost
+
+#### Key Outcome
+
+🏆 Successfully built a machine learning regression model capable of predicting **Strength Gain (%)** based on user demographics, supplement usage, body metrics, and fitness-related attributes using XGBoost.
+
 ## 📁 Repository Structure
 
 ```text
@@ -363,6 +382,7 @@ Daily-ML-DL/
 ├── Project_18_Movie_Recommendation_System/
 ├── Project_19_Breast_Cancer_Prediction/
 ├── Project_20_Breast_Cancer_ANN/
+├── Project_21_Strength_Gain_Prediction/
 └── README.md
 ```
 
@@ -381,29 +401,29 @@ Daily-ML-DL/
 
 ## 🛠️ Technologies Used
 
-* Python
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
-* Scikit-Learn
-* XGBoost
-* NLTK
-* Joblib
-* Logistic Regression
-* Support Vector Machine (SVM)
-* Random Forest
-* NLP
-* Reccomendation System
-* TF-IDF
-* TensorFlow
-* Keras
-* Artificial Neural Networks (ANN)
+### Machine Learning
+- Logistic Regression
+- SVM
+- Random Forest
+- XGBoost
 
+### Deep Learning
+- TensorFlow
+- Keras
+
+### NLP
+- NLTK
+- TF-IDF
+
+### Data Analysis
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 ---
 
 ## 📈 Progress
 
-✅ 20 Machine Learning Projects Completed
+✅ 21 Machine Learning Projects Completed
 
 🚀 More projects coming soon...
