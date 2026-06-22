@@ -4,7 +4,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
 ![Deep Learning](https://img.shields.io/badge/Deep-Learning-red)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Projects](https://img.shields.io/badge/Projects-21-orange)
+![Projects](https://img.shields.io/badge/Projects-22-orange)
 My daily Machine Learning and Deep Learning project repository where I build and document ML/DL projects to strengthen my practical skills and create a strong portfolio.
 
 
@@ -357,6 +357,26 @@ My daily Machine Learning and Deep Learning project repository where I build and
 
 🏆 Successfully built a machine learning regression model capable of predicting **Strength Gain (%)** based on user demographics, supplement usage, body metrics, and fitness-related attributes using XGBoost.
 
+### Project 22 - MNIST Handwritten Digit Classification using Deep Learning
+
+* Deep Learning Classification
+* MNIST Dataset
+* Computer Vision
+* Image Classification
+* Data Normalization
+* Artificial Neural Network (ANN)
+* TensorFlow & Keras
+* Multi-Class Classification
+* Handwritten Digit Recognition
+* Confusion Matrix Visualization
+* Predictive System for Digit Recognition
+* Python, NumPy, Matplotlib, Seaborn, TensorFlow, Keras, Scikit-Learn
+
+#### Key Outcome
+
+🏆 Successfully built a Deep Learning model capable of recognizing handwritten digits (0–9) from grayscale images using an Artificial Neural Network (ANN) trained on the MNIST dataset.
+
+
 ## 📁 Repository Structure
 
 ```text
@@ -383,6 +403,7 @@ Daily-ML-DL/
 ├── Project_19_Breast_Cancer_Prediction/
 ├── Project_20_Breast_Cancer_ANN/
 ├── Project_21_Strength_Gain_Prediction/
+├── Project_22_MNIST_Digit_Classification/
 └── README.md
 ```
 
@@ -410,6 +431,9 @@ Daily-ML-DL/
 ### Deep Learning
 - TensorFlow
 - Keras
+* Computer Vision
+* Image Classification
+* Artificial Neural Networks (ANN)
 
 ### NLP
 - NLTK
@@ -424,6 +448,6 @@ Daily-ML-DL/
 
 ## 📈 Progress
 
-✅ 21 Machine Learning Projects Completed
+✅ 22 Machine Learning Projects Completed
 
 🚀 More projects coming soon...
