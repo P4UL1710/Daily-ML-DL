@@ -4,7 +4,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
 ![Deep Learning](https://img.shields.io/badge/Deep-Learning-red)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Projects](https://img.shields.io/badge/Projects-22-orange)
+![Projects](https://img.shields.io/badge/Projects-23-orange)
 My daily Machine Learning and Deep Learning project repository where I build and document ML/DL projects to strengthen my practical skills and create a strong portfolio.
 
 
@@ -376,6 +376,26 @@ My daily Machine Learning and Deep Learning project repository where I build and
 
 🏆 Successfully built a Deep Learning model capable of recognizing handwritten digits (0–9) from grayscale images using an Artificial Neural Network (ANN) trained on the MNIST dataset.
 
+### Project 23 - Rainfall Prediction System using Random Forest
+
+* Classification Problem
+* Weather Forecasting Dataset
+* Data Cleaning & Missing Value Handling
+* Exploratory Data Analysis (EDA)
+* Correlation Analysis
+* Feature Selection
+* Imbalanced Data Handling
+* Random Forest Classifier
+* Hyperparameter Tuning using GridSearchCV
+* Cross Validation
+* Confusion Matrix & Classification Report
+* Rainfall Prediction System
+* Model Serialization using Pickle
+* Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
+
+#### Key Outcome
+
+🏆 Successfully built a machine learning model capable of predicting rainfall occurrence based on atmospheric conditions such as pressure, humidity, cloud cover, sunshine, and wind characteristics using an optimized Random Forest Classifier.
 
 ## 📁 Repository Structure
 
@@ -404,6 +424,7 @@ Daily-ML-DL/
 ├── Project_20_Breast_Cancer_ANN/
 ├── Project_21_Strength_Gain_Prediction/
 ├── Project_22_MNIST_Digit_Classification/
+├── Project_23_Rainfall_Prediction/
 └── README.md
 ```
 
@@ -427,6 +448,10 @@ Daily-ML-DL/
 - SVM
 - Random Forest
 - XGBoost
+* GridSearchCV
+* Weather Forecasting
+* Model Serialization (Pickle)
+* Cross Validation
 
 ### Deep Learning
 - TensorFlow
@@ -448,6 +473,6 @@ Daily-ML-DL/
 
 ## 📈 Progress
 
-✅ 22 Machine Learning Projects Completed
+✅ 23 Machine Learning Projects Completed
 
 🚀 More projects coming soon...
