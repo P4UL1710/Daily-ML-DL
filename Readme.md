@@ -4,7 +4,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
 ![Deep Learning](https://img.shields.io/badge/Deep-Learning-red)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Projects](https://img.shields.io/badge/Projects-23-orange)
+![Projects](https://img.shields.io/badge/Projects-24-orange)
 My daily Machine Learning and Deep Learning project repository where I build and document ML/DL projects to strengthen my practical skills and create a strong portfolio.
 
 
@@ -397,6 +397,29 @@ My daily Machine Learning and Deep Learning project repository where I build and
 
 🏆 Successfully built a machine learning model capable of predicting rainfall occurrence based on atmospheric conditions such as pressure, humidity, cloud cover, sunshine, and wind characteristics using an optimized Random Forest Classifier.
 
+### Project 24 - Fake News Detection using LSTM and Word Embeddings
+
+* Natural Language Processing (NLP)
+* Fake News Detection
+* Text Classification
+* Text Cleaning & Preprocessing
+* Stopword Removal
+* Stemming
+* One-Hot Encoding
+* Sequence Padding
+* Word Embeddings
+* LSTM (Long Short-Term Memory)
+* Deep Learning for NLP
+* Binary Classification
+* Confusion Matrix & Classification Report
+* TensorFlow & Keras
+* Python, NumPy, Pandas, NLTK, Scikit-Learn
+
+#### Key Outcome
+
+🏆 Successfully built a Deep Learning NLP model capable of classifying news articles as Fake or Real using Word Embeddings and LSTM networks, demonstrating how sequence models can capture contextual information in text data.
+
+
 ## 📁 Repository Structure
 
 ```text
@@ -425,6 +448,7 @@ Daily-ML-DL/
 ├── Project_21_Strength_Gain_Prediction/
 ├── Project_22_MNIST_Digit_Classification/
 ├── Project_23_Rainfall_Prediction/
+├── Project_24_Fake_News_Detection_LSTM/
 └── README.md
 ```
 
@@ -463,6 +487,12 @@ Daily-ML-DL/
 ### NLP
 - NLTK
 - TF-IDF
+* Natural Language Processing (NLP)
+* LSTM Networks
+* Word Embeddings
+* NLTK
+* Text Classification
+* Sequence Modeling
 
 ### Data Analysis
 - Pandas
@@ -473,6 +503,6 @@ Daily-ML-DL/
 
 ## 📈 Progress
 
-✅ 23 Machine Learning Projects Completed
+✅ 24 Machine Learning Projects Completed
 
 🚀 More projects coming soon...
