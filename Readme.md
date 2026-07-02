@@ -4,7 +4,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
 ![Deep Learning](https://img.shields.io/badge/Deep-Learning-red)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Projects](https://img.shields.io/badge/Projects-25-orange)
+![Projects](https://img.shields.io/badge/Projects-26-orange)
 My daily Machine Learning and Deep Learning project repository where I build and document ML/DL projects to strengthen my practical skills and create a strong portfolio.
 
 
@@ -442,6 +442,30 @@ My daily Machine Learning and Deep Learning project repository where I build and
 
 🏆 Successfully built a Bidirectional LSTM-based Deep Learning model capable of classifying news articles as **Fake** or **Real** by learning contextual information from both forward and backward directions of text sequences, resulting in richer language understanding than a standard LSTM.
 
+### Project 26 - Credit Card Fraud Detection using Deep Learning
+
+* Deep Learning
+* Artificial Neural Network (ANN)
+* Binary Classification
+* Credit Card Fraud Detection
+* Fraud Analytics
+* Data Preprocessing
+* Handling Imbalanced Data
+* Random Undersampling
+* Feature Scaling using StandardScaler
+* Stratified Shuffle Split
+* TensorFlow & Keras
+* Model Evaluation
+* Confusion Matrix
+* Classification Report
+* Predictive System for Transaction Classification
+* Model Serialization (.keras)
+* Python, NumPy, Pandas, Matplotlib, Scikit-Learn
+
+#### Key Outcome
+
+🏆 Successfully built a Deep Learning-based Artificial Neural Network capable of detecting fraudulent credit card transactions by learning transaction patterns from balanced training data, demonstrating the application of neural networks in financial fraud detection.
+
 ## 📁 Repository Structure
 
 ```text
@@ -472,6 +496,7 @@ Daily-ML-DL/
 ├── Project_23_Rainfall_Prediction/
 ├── Project_24_Fake_News_Detection_LSTM/
 ├── Project_25_Fake_News_Detection_Bidirectional_LSTM/
+├── Project_26_Credit_Card_Fraud_Detection_DL/
 └── README.md
 ```
 
@@ -527,6 +552,6 @@ Daily-ML-DL/
 
 ## 📈 Progress
 
-✅ 25 Machine Learning Projects Completed
+✅ 26 Machine Learning Projects Completed
 
 🚀 More projects coming soon...
